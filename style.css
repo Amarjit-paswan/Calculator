@@ -10,7 +10,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(172, 243, 219);
+        background-color: rgb(180, 172, 243);
+
 }
 
 .container{
