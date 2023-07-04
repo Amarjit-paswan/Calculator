@@ -97,7 +97,7 @@ body{
     font-size: 30px;
     cursor: pointer;
 }
-@media (max-width:480px){
+@media (max-width:600px){
 
     body{
         width: 100%;
@@ -110,7 +110,6 @@ body{
 
     .container{
         width: 80%;
-        height: 90vh;
         border: 1px solid #000;
         border-radius: 15px;
         margin: 0 auto;
