@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-  width: 100%;
+  width: 400px;
   border: 1px solid #000;
   border-radius: 15px;
   padding: 40px 20px;
@@ -115,7 +115,7 @@ body {
 }
   .display button {
     font-size: 25px;
-    width:80%;
+    width:100%;
     height:70px;
   }
 }
